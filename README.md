@@ -1,0 +1,2 @@
+# nurimaulida
+data diri sederhana
